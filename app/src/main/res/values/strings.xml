@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AndroidDevTaskChesnokov</string>
+    <string name="point">балл</string>
+    <string name="points1">балла</string>
+    <string name="points2">баллов</string>
+    <string name="cashback">Кешбэк</string>
+    <string name="level">Уровень</string>
+    <string name="details">Подробнее</string>
+    <string name="show_button">\"Показать\"</string>
+    <string name="delete_button">\"Удалить\"</string>
+    <string name="details_button">\"Подробнее"\</string>
+    <string name="button_pressed">Нажата кнопка</string>
+    <string name="company_id">id компании:</string>
+    <string name="loading_companies">Подгрузка компаний</string>
+    <string name="no_companies">Нет компаний</string>
+    <string name="error">Произошла ошибка</string>
+    <string name="card_screen_title">Управление картами</string>
+</resources>
